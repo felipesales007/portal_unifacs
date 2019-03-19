@@ -14,7 +14,7 @@ Sugestão de melhoria para o site do portal do aluno UNIFACS.
 | --- | --- |
 | <img src="https://uploaddeimagens.com.br/images/001/970/391/original/Captura_de_Tela_2019-03-18_às_22.34.13.png" width="420" height="250" /> | <img src="https://uploaddeimagens.com.br/images/001/970/392/original/Captura_de_Tela_2019-03-18_às_22.34.37.png" width="420" height="250" />
 
-| HOME | MENU |
+| MOBILE | MENU |
 | --- | --- |
 | <img src="https://uploaddeimagens.com.br/images/001/970/394/original/Captura_de_Tela_2019-03-18_às_22.35.20.png" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/396/original/Captura_de_Tela_2019-03-18_às_22.35.37.png" width="420" height="600" />
 
