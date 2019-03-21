@@ -8,7 +8,9 @@ Sugestão de melhoria para o site do portal do aluno UNIFACS.
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
+
+## Mais telas
 
 | HOME | AVISOS |
 | --- | --- |
@@ -19,6 +21,7 @@ Sugestão de melhoria para o site do portal do aluno UNIFACS.
 | <img src="https://uploaddeimagens.com.br/images/001/970/394/original/Captura_de_Tela_2019-03-18_às_22.35.20.png" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/396/original/Captura_de_Tela_2019-03-18_às_22.35.37.png" width="420" height="600" />
 
 ## Site
+
 Visite a página [Portal Unifacs](https://www.felipesales.com.br/unifacs).
 
 &nbsp;
